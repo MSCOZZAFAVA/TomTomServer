@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<firmwareConfig>
+    <Major>1</Major>
+    <Minor>8</Minor>
+    <Build>52</Build>
+    <isCritical>yes</isCritical>
+    <BLE version="18" URL="0x00000012"/>
+    <URL>0x000000F0</URL>
+    <URL>0x00010200</URL>
+    <URL>0x00810000</URL>
+    <URL>0x00810001</URL>
+    <URL>0x00810002</URL>
+    <URL>0x00810003</URL>
+    <URL>0x00810004</URL>
+    <URL>0x00810005</URL>
+    <URL>0x00810008</URL>
+    <URL>0x00810009</URL>
+    <URL>0x0081000A</URL>
+    <URL>0x0081000B</URL>
+    <URL>0x0081000C</URL>
+    <URL>0x0081000D</URL>
+    <URL>0x0081000E</URL>
+    <URL>0x0081000F</URL>
+    <URL>0x00850000</URL>
+    <URL>0x00850001</URL>
+</firmwareConfig>

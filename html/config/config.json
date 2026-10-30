@@ -1,0 +1,9 @@
+{
+  "service:firmware": "https://mysports.tomtom.com/downloads/firmware/{PRODUCT_ID}/FirmwareVersionConfigV2.xml",
+  "service:viking_software": "https://mysports.tomtom.com/downloads/firmware/",
+  "service:ephemeris": "https://mysports.tomtom.com/fitness/sifgps.f2p{DAYS}enc.ee",
+  "service:content": "https://mysports.tomtom.com/service/content/",
+  "service:identity": "https://mysports.tomtom.com/service/identity/",
+  "service:tracking": "https://mysports.tomtom.com/service/tracking/",
+  "service:device": "https://mysports.tomtom.com/service/device/"
+}
